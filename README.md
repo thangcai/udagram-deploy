@@ -70,3 +70,12 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+## Screenshot of the working application
+
+- ScreenshotImages folder
+
+## Link of the working application
+
+Frontend: `http://fullstack-udacity.s3-website-us-east-1.amazonaws.com`
+Backend: `http://udagram-api-dev.us-east-1.elasticbeanstalk.com/`
